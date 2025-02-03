@@ -55,9 +55,11 @@ This repository is structured into three main sections, each covering key SQL to
 30. Triggers  
 
 ## 🚀 Getting Started
+
 1. **Clone the Repository:**  
    ```bash
-    git clone https://github.com/AnushaGaneshan06/sql-repository.git
+   git clone https://github.com/AnushaGaneshan06/sql-repository.git
+
     
 2. **Navigate to the Project Directory:**  
    ```bash
@@ -82,4 +84,3 @@ For any queries or suggestions, feel free to reach out at:
 
 ## ⭐ Acknowledgments
 Thanks for exploring this repository. If you find it helpful, consider giving it a star!
-
