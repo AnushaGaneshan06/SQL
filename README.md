@@ -59,7 +59,7 @@ This repository is structured into three main sections, each covering key SQL to
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/AnushaGaneshan06/sql-repository.git
+    git clone https://github.com/AnushaGaneshan06/sql-repository.git SQL
    ```
 
 2. **Navigate to the Project Directory:**  
